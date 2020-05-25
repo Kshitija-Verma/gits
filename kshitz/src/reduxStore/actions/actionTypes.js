@@ -1,0 +1,7 @@
+export const AUTH_LOGIN='AUTH_LOGIN';
+export const AUTH_FAIL='AUTH_FAIL';
+
+export const REGISTER_SUCCESS='REGISTER_SUCCESS';
+export const REGISTER_FAIL='REGISTER_FAIL';
+
+export const VIEW_PRODUCT='VIEW_PRODUCT';
